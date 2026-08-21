@@ -1,4 +1,4 @@
-﻿# FilmZone 胶片专业测光表 (FilmZone Light Meter)
+# FilmZone 胶片专业测光表 (FilmZone Lightmeter)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 

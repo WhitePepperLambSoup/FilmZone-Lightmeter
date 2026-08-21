@@ -1,14 +1,14 @@
-﻿# FilmZone Light Meter - Google Play Store 上架全套文案与填报指南
+# FilmZone Lightmeter - Google Play Store 上架全套文案与填报指南
 
 ## 1. 基础信息 (Basic Info)
 
 - **默认语言**：中文（简体） - zh-CN
 - **应用名称 (App Title, max 30 chars)**：
   - 中文：`FilmZone - 胶片专业测光表`
-  - 英文：`FilmZone - Light Meter for Film`
+  - 英文：`FilmZone - Lightmeter for Film`
 - **简短说明 (Short Description, max 80 chars)**：
   - 中文：`专为胶片摄影打造的专业测光表。支持点测光、亚当斯分区曝光系统与超焦距景深测距。`
-  - 英文：`Professional analog film light meter with Ansel Adams Zone System & DoF rangefinder.`
+  - 英文：`Professional analog film lightmeter with Ansel Adams Zone System & DoF rangefinder.`
 
 ---
 
@@ -49,7 +49,7 @@ FilmZone 是一款专为胶片摄影师、电影摄影师以及古典光学爱�
 
 ### English Version:
 ```text
-FilmZone is a professional-grade light meter and exposure utility designed specifically for analog film photographers, cinematographers, and vintage optics enthusiasts.
+FilmZone is a professional-grade lightmeter and exposure utility designed specifically for analog film photographers, cinematographers, and vintage optics enthusiasts.
 
 Whether you shoot with 35mm rangefinders, 120 medium format (Hasselblad, Rolleiflex, Mamiya, Pentax 67), or large format view cameras, FilmZone delivers exposure precision alongside Ansel Adams' classic Zone System and optical depth-of-field calculation.
 

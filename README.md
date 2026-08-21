@@ -1,8 +1,8 @@
-﻿# FilmZone Light Meter (胶片专业测光表)
+# FilmZone Lightmeter (胶片专业测光表)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**A professional, tactile light meter and exposure utility for Android**, tailored for analog film photographers, cinematographers, and vintage camera lovers. Integrates Ansel Adams' classic Zone System, 40+ film profiles with reciprocity failure compensation, and a Leica-style rangefinder with real-time Depth-of-Field (DoF) calculation.
+**A professional, tactile lightmeter and exposure utility for Android**, tailored for analog film photographers, cinematographers, and vintage camera lovers. Integrates Ansel Adams' classic Zone System, 40+ film profiles with reciprocity failure compensation, and a Leica-style rangefinder with real-time Depth-of-Field (DoF) calculation.
 
 ---
 
@@ -55,7 +55,7 @@ cd FilmZone-Light-Meter
 
 ## 🔒 Privacy Policy
 
-FilmZone Light Meter operates strictly offline and does **not** collect, store, or transmit any user data, images, or telemetry.  
+FilmZone Lightmeter operates strictly offline and does **not** collect, store, or transmit any user data, images, or telemetry.  
 View our full [Privacy Policy](PRIVACY_POLICY.md) or online via [GitHub Gist](https://gist.github.com/WhitePepperLambSoup/d0ad397f6b4f1a48dbaa164eb7afbce9).
 
 ---

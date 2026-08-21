@@ -1,15 +1,15 @@
-﻿# Privacy Policy for FilmZone Light Meter
+# Privacy Policy for FilmZone Lightmeter
 
 **Effective Date:** August 22, 2026  
 **Last Updated:** August 22, 2026  
 
-FilmZone Light Meter ("we", "our", or "the App") is developed and maintained as a professional exposure and light metering utility tool for analog film and digital photography. We are fully committed to protecting your personal privacy. This Privacy Policy explains how our App operates and our commitment to not collecting your personal data.
+FilmZone Lightmeter ("we", "our", or "the App") is developed and maintained as a professional exposure and light metering utility tool for analog film and digital photography. We are fully committed to protecting your personal privacy. This Privacy Policy explains how our App operates and our commitment to not collecting your personal data.
 
 ---
 
 ## 1. Zero Personal Data Collection
 
-**FilmZone Light Meter does NOT collect, store, track, transmit, or share any personal information or device identifiers.**
+**FilmZone Lightmeter does NOT collect, store, track, transmit, or share any personal information or device identifiers.**
 
 - We do NOT require user account creation, registration, or login.
 - We do NOT integrate any third-party advertising SDKs, tracking pixels, or data broker libraries.
@@ -43,7 +43,7 @@ The App stores your user settings (such as selected Film Stock, ISO, Custom Cali
 
 ## 4. Third-Party Services and Analytics
 
-FilmZone Light Meter does NOT use any third-party analytics services (such as Firebase Analytics, Google Analytics, Facebook SDK, or Flurry). The App functions fully offline without requiring an active internet connection.
+FilmZone Lightmeter does NOT use any third-party analytics services (such as Firebase Analytics, Google Analytics, Facebook SDK, or Flurry). The App functions fully offline without requiring an active internet connection.
 
 ---
 
@@ -55,7 +55,7 @@ Our App does not address anyone under the age of 13, nor do we knowingly collect
 
 ## 6. GDPR & CCPA Compliance
 
-Because FilmZone Light Meter does not collect, process, or transmit personal data, there is no personal information to access, rectify, delete, or export under the General Data Protection Regulation (GDPR) or the California Consumer Privacy Act (CCPA).
+Because FilmZone Lightmeter does not collect, process, or transmit personal data, there is no personal information to access, rectify, delete, or export under the General Data Protection Regulation (GDPR) or the California Consumer Privacy Act (CCPA).
 
 ---
 
