@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer light meter bezel -->
+    <path
+        android:pathData="M54,26 A28,28 0 1,1 53.99,26"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFC107"
+        android:fillColor="#1E2126" />
+    <!-- Inner zone scale circle -->
+    <path
+        android:pathData="M54,34 A20,20 0 1,1 53.99,34"
+        android:strokeWidth="1.5"
+        android:strokeColor="#64748B"
+        android:fillColor="#0F1115" />
+    <!-- Reticle crosshair / Spot meter target -->
+    <path
+        android:pathData="M54,40 L54,48 M54,60 L54,68 M40,54 L48,54 M60,54 L68,54"
+        android:strokeWidth="2.0"
+        android:strokeColor="#FFC107"
+        android:strokeLineCap="round" />
+    <!-- Center spot ring -->
+    <path
+        android:pathData="M54,50 A4,4 0 1,1 53.99,50"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFC107"
+        android:fillColor="#33FFC107" />
+    <!-- Zone System tick notches -->
+    <path
+        android:pathData="M54,27 L54,31 M73,35 L70,38 M81,54 L77,54 M73,73 L70,70 M54,81 L54,77 M35,73 L38,70 M27,54 L31,54 M35,35 L38,38"
+        android:strokeWidth="2.0"
+        android:strokeColor="#E2E8F0"
+        android:strokeLineCap="round" />
+    <!-- EV Badge in top right corner -->
+    <path
+        android:pathData="M68,26 L80,26 A4,4 0 0,1 84,30 L84,38 A4,4 0 0,1 80,42 L68,42 Z"
+        android:fillColor="#FFC107" />
+    <!-- Letter 'Z' / 'EV' stylized mark -->
+    <path
+        android:pathData="M72,30 L80,30 L73,38 L81,38"
+        android:strokeWidth="1.8"
+        android:strokeColor="#121418"
+        android:strokeLineCap="square" />
+</vector>
