@@ -41,8 +41,8 @@
 ### 编译命令
 ```bash
 # 1. 克隆代码仓库
-git clone https://github.com/WhitePepperLambSoup/FilmZone-Light-Meter.git
-cd FilmZone-Light-Meter
+git clone https://github.com/WhitePepperLambSoup/FilmZone-Lightmeter.git
+cd FilmZone-Lightmeter
 
 # 2. 编译调试版 APK
 ./gradlew assembleDebug

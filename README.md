@@ -41,8 +41,8 @@
 ### Clone & Compile
 ```bash
 # 1. Clone repository
-git clone https://github.com/WhitePepperLambSoup/FilmZone-Light-Meter.git
-cd FilmZone-Light-Meter
+git clone https://github.com/WhitePepperLambSoup/FilmZone-Lightmeter.git
+cd FilmZone-Lightmeter
 
 # 2. Build Debug APK
 ./gradlew assembleDebug
